@@ -24,6 +24,13 @@ h1{
 h2{
     text-align: center;
     font-size: 45px;
+    color: white;
+    padding-top: 50px;
+}
+
+h4{
+    font-size: 30px;
+    padding-left: 10px;
 }
 
 .app-content ul{
@@ -57,16 +64,13 @@ padding: 80px;
     padding: 50px;
 }
 
-.app-benefits ul{
-    padding:50px;
-    font-size: 20px;
+
+.app-images img{
+    max-width: 60%;
 }
 
-
-
-
-.app-benefits img{
-    max-width: 60%;
+.app-process img{
+    max-width: 50%;
 }
 
 img{
@@ -78,6 +82,31 @@ img{
  font-size: 20px;
  padding-top: 25px;
 
-
 }
 
+.subscription{
+    background-color: #7F6991;
+    padding: 20px;
+}
+
+.plans{
+    display: flex;
+}
+
+.plans-description{
+    display:flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.card{
+    background-color: white;
+    border-radius: 0.4rem;
+    padding:30px;
+}
+
+.card-content ul{
+    font-size: 20px;
+    background-color: white;
+    list-style-type: none;
+}
