@@ -45,6 +45,12 @@ background-size: 100%;
 background-repeat: no-repeat;
 }
 
+.header-image{
+    height: 50%;
+    background-repeat: no-repeat;
+    margin:0 auto;
+}
+
 .banner-image{
     background-image: url(images/sensability-background-image-01.png);
     background-size: 100%;
